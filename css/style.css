@@ -4,13 +4,12 @@
 h1 {
   color: rgb(152,173,166);
   font-size: 5em;
-    font-weight: normal;
-    font-family: 'Baskerville', serif;
+  font-weight: normal;
+  font-family: 'Baskerville', serif;
 }
 
 figure {
-      border: 5px rgb(152,173,166) solid;
-      width: 100%;
+  border: 5px rgb(152,173,166) solid;
 }
 
 /*////////// Global Styles //////////*/
