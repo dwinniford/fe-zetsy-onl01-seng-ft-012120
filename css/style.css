@@ -10,6 +10,7 @@ h1 {
 
 figure {
       border: 5px rgb(152,173,166) solid;
+      width: 100%;
 }
 
 /*////////// Global Styles //////////*/
